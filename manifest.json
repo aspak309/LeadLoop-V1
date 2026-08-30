@@ -1,0 +1,1 @@
+{"manifest_version":3,"name":"LeadLoop — Customer & Order Workspace","version":"1.0.0","description":"Local-first customer, follow-up and order workspace.","permissions":["storage","notifications"],"action":{"default_title":"LeadLoop"},"side_panel":{"default_path":"index.html"}}
